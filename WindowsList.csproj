@@ -43,9 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\BabylonMSSolution\BabylonMSSolution\babylonms.cs">
-      <Link>babylonms.cs</Link>
-    </Compile>
+    <Compile Include="babylonms.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
